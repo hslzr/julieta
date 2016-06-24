@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'julieta'
+
+romeo = Romeo.new
+
+romeo.find_julieta

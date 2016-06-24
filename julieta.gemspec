@@ -6,12 +6,12 @@ require 'julieta/version'
 Gem::Specification.new do |spec|
   spec.name          = "julieta"
   spec.version       = Julieta::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Salazar"]
   spec.email         = ["h.salazar509@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{ Simple gem for academic and recreational purposes... }
+  spec.description   = %q{ Have you seen Romeo?... }
+  spec.homepage      = "https://github.com/hslzr/julieta"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

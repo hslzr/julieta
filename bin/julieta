@@ -2,6 +2,6 @@
 
 require 'julieta'
 
-romeo = Romeo.new
+romeo = Julieta::Romeo.new
 
 romeo.find_julieta
